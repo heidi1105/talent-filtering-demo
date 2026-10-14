@@ -1,0 +1,53 @@
+# ── Frontend (Next.js) ──────────────────────────────────────────
+frontend/.next/
+frontend/node_modules/
+frontend/.env.local
+frontend/.env*.local
+
+# ── Pipeline (Python) ───────────────────────────────────────────
+pipeline/.env
+pipeline/__pycache__/
+pipeline/**/__pycache__/
+pipeline/.pytest_cache/
+pipeline/*.pyc
+pipeline/**/*.pyc
+
+# Large seed / data files — never commit to public repo
+pipeline/seed/wikidata_raw.json
+pipeline/seed/wikidata_raw_cleaned.json
+pipeline/seed/talents_seed.json
+pipeline/seed/db_validation_dump.json
+pipeline/seed/kprofiles_groups_raw.json
+pipeline/seed/kprofiles_groups.json
+pipeline/seed/kprofiles_members.json
+pipeline/seed/kprofiles_group_index.json
+pipeline/seed/kprofiles_backfill_log.json
+pipeline/seed/kprofiles_html_cache/
+pipeline/seed/coverage_report.json
+pipeline/seed/groups_found.txt
+pipeline/seed/enrichment_apply_report_*.json
+
+# Enrichment batch results — contain real data
+pipeline/enrichment/combined/results/
+pipeline/enrichment/combined/progress.json
+pipeline/enrichment/combined/brands_for_load.json
+pipeline/enrichment/combined/flagged*.json
+pipeline/enrichment/combined/new_group_talents.json
+pipeline/enrichment/followers/logs/
+
+# Intermediate / working files
+pipeline/*.json
+pipeline/*.csv
+pipeline/*.xlsx
+pipeline/wikidata_*.json
+pipeline/wikipedia_*.json
+pipeline/diagnose_missing_report.json
+pipeline/kprofiles_photos*.json
+
+# ── General ─────────────────────────────────────────────────────
+.DS_Store
+*.DS_Store
+
+# TypeScript incremental build cache
+*.tsbuildinfo
+*.mov

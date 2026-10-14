@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg:           #111213;
+  --surface:      #1a1b1e;
+  --surface2:     #222428;
+  --border:       #2e3035;
+  --border2:      #3a3d44;
+  --text:         #e8e9ea;
+  --text-muted:   #7a7d85;
+  --text-dim:     #4a4d55;
+  --accent:       #c8a96e;
+  --accent2:      #6e9dc8;
+  --accent-dim:   rgba(200,169,110,0.12);
+  --selected:     rgba(200,169,110,0.06);
+
+  /* Brand-affiliation confidence. Blue (accent2) = high, so the common case
+     keeps the existing pill and only the exceptions draw the eye. Orange is
+     pushed more saturated than --accent deliberately: gold sits at hue ~39°
+     and would otherwise read as the same colour at 11px. */
+  --warn:               #d1873f;
+  --danger:             #c86e6e;
+  --brand-high-fill:    rgba(110,157,200,0.08);
+  --brand-high-line:    rgba(110,157,200,0.25);
+  --brand-medium-fill:  rgba(209,135,63,0.08);
+  --brand-medium-line:  rgba(209,135,63,0.30);
+  --brand-low-fill:     rgba(200,110,110,0.08);
+  --brand-low-line:     rgba(200,110,110,0.30);
+
+  --radius:       6px;
+  --font:         'DM Sans', sans-serif;
+  --mono:         'DM Mono', monospace;
+}
+
+[data-theme="light"] {
+  --bg:         #f4f4f6;
+  --surface:    #ffffff;
+  --surface2:   #ebebed;
+  --border:     #d8d8de;
+  --border2:    #c8c8d0;
+  --text:       #111213;
+  --text-muted: #6b6e7a;
+  --text-dim:   #9a9da8;
+  --accent:     #8a6a2a;
+  --accent2:    #2a5a8a;
+  --accent-dim: rgba(138,106,42,0.10);
+  --selected:   rgba(138,106,42,0.06);
+
+  /* Darkened to hold contrast against the light surface, matching how
+     --accent/--accent2 are re-derived above. */
+  --warn:               #a35a18;
+  --danger:             #a33a3a;
+  --brand-high-fill:    rgba(42,90,138,0.07);
+  --brand-high-line:    rgba(42,90,138,0.28);
+  --brand-medium-fill:  rgba(163,90,24,0.07);
+  --brand-medium-line:  rgba(163,90,24,0.30);
+  --brand-low-fill:     rgba(163,58,58,0.07);
+  --brand-low-line:     rgba(163,58,58,0.30);
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+}

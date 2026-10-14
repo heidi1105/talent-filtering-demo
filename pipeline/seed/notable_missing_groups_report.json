@@ -1,0 +1,3150 @@
+{
+  "summary": {
+    "total_kprofiles_only_groups": 538,
+    "notable_active_groups": 194,
+    "pre_debut_groups": 34,
+    "small_groups": 203
+  },
+  "notable_groups": [
+    {
+      "group": "NCT U",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 23,
+      "in_wikidata": 23,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "DUSTIN",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 17,
+      "in_wikidata": 10,
+      "missing_from_wikidata": 7,
+      "missing_names": [
+        "Lake",
+        "Seunggi",
+        "Raphael",
+        "Siu",
+        "Hwani",
+        "JJ",
+        "Kim Yoon"
+      ],
+      "coverage_pct": 59
+    },
+    {
+      "group": "SAVVVY",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 15,
+      "in_wikidata": 12,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Gayeon",
+        "Jisol",
+        "Kiri"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "ANTARES",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 13,
+      "in_wikidata": 7,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "Hwi",
+        "Ramu",
+        "Ino",
+        "Hyeonbin",
+        "Takhyeon",
+        "Gyu"
+      ],
+      "coverage_pct": 54
+    },
+    {
+      "group": "LOONA",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 12,
+      "in_wikidata": 12,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "Double 0ne",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 11,
+      "in_wikidata": 8,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Lee Hanbin",
+        "Hikari",
+        "Ling Qi"
+      ],
+      "coverage_pct": 73
+    },
+    {
+      "group": "IITERNITI",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 11,
+      "in_wikidata": 10,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Jaein"
+      ],
+      "coverage_pct": 91
+    },
+    {
+      "group": "SMNBG",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 11,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 8,
+      "missing_names": [
+        "Hanbi",
+        "Songha",
+        "Nicholas",
+        "Kassho",
+        "Justin",
+        "Haruta",
+        "Kachin",
+        "Tata"
+      ],
+      "coverage_pct": 27
+    },
+    {
+      "group": "iii",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 11,
+      "in_wikidata": 7,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Eungi",
+        "Namkhing",
+        "Huran",
+        "Ahra"
+      ],
+      "coverage_pct": 64
+    },
+    {
+      "group": "NCT 127",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 10,
+      "in_wikidata": 10,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "Queenz Eye",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 10,
+      "in_wikidata": 7,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Wonchae",
+        "Kiirii",
+        "Damin"
+      ],
+      "coverage_pct": 70
+    },
+    {
+      "group": "VAV",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 10,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "St. Van",
+        "ACE",
+        "Ayno",
+        "Zehan",
+        "Gyeoul",
+        "Baron"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "Xikers",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 10,
+      "in_wikidata": 7,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Junmin",
+        "Jinsik",
+        "Hunter (헌터)"
+      ],
+      "coverage_pct": 70
+    },
+    {
+      "group": "A-plus",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 9,
+      "in_wikidata": 7,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Sein",
+        "Jamin"
+      ],
+      "coverage_pct": 78
+    },
+    {
+      "group": "ASTEON",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 9,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Yang Junbeom",
+        "Nam Minsu",
+        "Kwak Gun",
+        "Moon Seonghyeok"
+      ],
+      "coverage_pct": 56
+    },
+    {
+      "group": "DIVA-X</a>",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 9,
+      "in_wikidata": 8,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "DJ Nana"
+      ],
+      "coverage_pct": 89
+    },
+    {
+      "group": "GreatGuys",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 9,
+      "in_wikidata": 7,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Minki (민기), formerly Uiyeon",
+        "Semin (세민), formerly Baekgyeol"
+      ],
+      "coverage_pct": 78
+    },
+    {
+      "group": "L5ST",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 9,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "Seogyeom",
+        "Chanwook",
+        "Kyul",
+        "Donggyu",
+        "Beomsoo",
+        "Nabin"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "O.O.O",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 9,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Ga Sunghyun",
+        "Lee Jisang",
+        "Jang Yongho",
+        "Yu Jinsang",
+        "Gong Seokjun"
+      ],
+      "coverage_pct": 44
+    },
+    {
+      "group": "South Club",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 9,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Jung Hoemin",
+        "Kang Minjun",
+        "Lee Dongkeun",
+        "GET-KU"
+      ],
+      "coverage_pct": 56
+    },
+    {
+      "group": "TRY=1",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 9,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Neo",
+        "R1KE",
+        "Tsukito",
+        "Naki"
+      ],
+      "coverage_pct": 56
+    },
+    {
+      "group": "WE US",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 9,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Boyul",
+        "Chanwook",
+        "Jeongyoon"
+      ],
+      "coverage_pct": 67
+    },
+    {
+      "group": "ambitious ambition",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 9,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "JUNEGYO",
+        "Hansol (한솔), formerly known as elan (일란) and Hans",
+        "Dan",
+        "Joe",
+        "Antonio"
+      ],
+      "coverage_pct": 44
+    },
+    {
+      "group": "2Z",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Bumjun",
+        "ZUNON",
+        "Hyunwoong",
+        "Jiseob",
+        "NUVorn"
+      ],
+      "coverage_pct": 38
+    },
+    {
+      "group": "ACID EYES",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 8,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "APEX",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Gyeom",
+        "Siryu",
+        "Domo"
+      ],
+      "coverage_pct": 62
+    },
+    {
+      "group": "AtHeart",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Michi",
+        "Katelyn",
+        "Seohyeon",
+        "Sorin"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "Cotoba",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "DyoN Joo",
+        "Dafne",
+        "euPhemia",
+        "Marker",
+        "DjuNaNa"
+      ],
+      "coverage_pct": 38
+    },
+    {
+      "group": "D&T",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Junyong",
+        "Chiho",
+        "Jungjo",
+        "Taegu"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "E11iVYN",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Yekang",
+        "Juha",
+        "Yuting"
+      ],
+      "coverage_pct": 62
+    },
+    {
+      "group": "Lanalogue",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "Lyoon",
+        "Tatsuo",
+        "UMin",
+        "Beomsu",
+        "Mr. Manager",
+        "E-Min"
+      ],
+      "coverage_pct": 25
+    },
+    {
+      "group": "Pastel Girls",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Heebin",
+        "Bobin",
+        "Taehee"
+      ],
+      "coverage_pct": 62
+    },
+    {
+      "group": "RoaD-B",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Chanseung (찬승/ チャンスン), formerly romanized as Chanseoung",
+        "Teen",
+        "Sun (썬), formerly June"
+      ],
+      "coverage_pct": 62
+    },
+    {
+      "group": "The KingDom",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Dann",
+        "Hwon"
+      ],
+      "coverage_pct": 75
+    },
+    {
+      "group": "UNVS",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "Jun H.",
+        "YY, formerly Yongyong",
+        "Eunho (은호), formerly Crown",
+        "Changgyu (창규), formerly Changgong",
+        "Sihoon",
+        "IL"
+      ],
+      "coverage_pct": 25
+    },
+    {
+      "group": "WHIB",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Haseung",
+        "Jinbeom",
+        "Inhong"
+      ],
+      "coverage_pct": 62
+    },
+    {
+      "group": "XENEX",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Heeseok",
+        "Ingon",
+        "Minjong",
+        "Bon",
+        "Uhyeong"
+      ],
+      "coverage_pct": 38
+    },
+    {
+      "group": "yesweare (idntt)",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 8,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Lee CheongMyeong",
+        "Towa",
+        "Choi GyeongBeen",
+        "Park NuRi",
+        "Lee KyuHyuk"
+      ],
+      "coverage_pct": 38
+    },
+    {
+      "group": "5but",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Yangeop",
+        "Junhyeok",
+        "Gitae",
+        "Hyesu",
+        "Jinhyung"
+      ],
+      "coverage_pct": 29
+    },
+    {
+      "group": "ABLUE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "ON",
+        "Seongsoo"
+      ],
+      "coverage_pct": 71
+    },
+    {
+      "group": "ALL(H)OURS",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Masami"
+      ],
+      "coverage_pct": 86
+    },
+    {
+      "group": "BADCUPID",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Kyeom",
+        "Zune",
+        "Jeong",
+        "Jongseok",
+        "Bio (비오) / U.B.O"
+      ],
+      "coverage_pct": 29
+    },
+    {
+      "group": "BE:MAX",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Taegeon",
+        "Sihoo",
+        "Sangwoo"
+      ],
+      "coverage_pct": 57
+    },
+    {
+      "group": "BLITZERS",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Juhan",
+        "Lutan"
+      ],
+      "coverage_pct": 71
+    },
+    {
+      "group": "D-ONE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Ihwa",
+        "Hyunwoong",
+        "Doyul"
+      ],
+      "coverage_pct": 57
+    },
+    {
+      "group": "DAYCHILD",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Yejong"
+      ],
+      "coverage_pct": 86
+    },
+    {
+      "group": "EASTSHINE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "IEL",
+        "Dongjae",
+        "Hyun",
+        "Phoenix"
+      ],
+      "coverage_pct": 43
+    },
+    {
+      "group": "FERRY BLUE",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Xiho",
+        "Seona",
+        "Hyunji"
+      ],
+      "coverage_pct": 57
+    },
+    {
+      "group": "H//PE PRINCESS",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "YSY",
+        "Rino",
+        "Niko"
+      ],
+      "coverage_pct": 57
+    },
+    {
+      "group": "NCHIVE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Kangsan",
+        "Yuchan"
+      ],
+      "coverage_pct": 71
+    },
+    {
+      "group": "NEXZ",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Tomoya",
+        "So Geon (ソ ゴン / 소건) [formerly Ken (ケン)]",
+        "Seita",
+        "Hyui (ヒュイ / 휴이) [formerly Yuhi (ユウヒ)]"
+      ],
+      "coverage_pct": 43
+    },
+    {
+      "group": "SEVENTOEIGHT",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Chiwon",
+        "Kyojun",
+        "Jagger",
+        "D’om"
+      ],
+      "coverage_pct": 43
+    },
+    {
+      "group": "SKINZ",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "Dovin",
+        "Dael",
+        "Finn",
+        "Jaon",
+        "Ilang Kwon",
+        "Yull"
+      ],
+      "coverage_pct": 14
+    },
+    {
+      "group": "SuperM",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 7,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "THE7 (THE SEVEN)",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Opp",
+        "Pa",
+        "Yongkwon",
+        "Yoyo",
+        "Peanut"
+      ],
+      "coverage_pct": 29
+    },
+    {
+      "group": "TRENDZ",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Hankook",
+        "Havit",
+        "Yoonwoo",
+        "Eunil"
+      ],
+      "coverage_pct": 43
+    },
+    {
+      "group": "The Ssyndrome",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 0,
+      "missing_from_wikidata": 7,
+      "missing_names": [
+        "Seok Jun Ho",
+        "Yang Hee Gyo",
+        "Do Min Kyu",
+        "Jung Ji Yeong",
+        "Shin Se I",
+        "Jang Min Joon",
+        "Lee Hyeok Ju"
+      ],
+      "coverage_pct": 0
+    },
+    {
+      "group": "WOW",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Daro",
+        "Yooseong",
+        "Taeeun",
+        "Yonghun"
+      ],
+      "coverage_pct": 43
+    },
+    {
+      "group": "Walking After U",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "A-Zzang",
+        "Hangyeom",
+        "Baemi"
+      ],
+      "coverage_pct": 57
+    },
+    {
+      "group": "WayV",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 7,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "We;Na",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Aya",
+        "Sanghee",
+        "Yeonseo",
+        "Harlie"
+      ],
+      "coverage_pct": 43
+    },
+    {
+      "group": "aoen",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Gaku",
+        "Hikaru (ひかる) [formerly Haku (はく)]",
+        "Sota",
+        "Kyosuke",
+        "Reo"
+      ],
+      "coverage_pct": 29
+    },
+    {
+      "group": "uneverm8t (idntt)",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 7,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Nam JiWoon",
+        "Choi TaeIn",
+        "Kim HeeJu"
+      ],
+      "coverage_pct": 57
+    },
+    {
+      "group": "AIMERS",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Doryun",
+        "Yoel"
+      ],
+      "coverage_pct": 67
+    },
+    {
+      "group": "ASC2NT",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Karam",
+        "Hyowon"
+      ],
+      "coverage_pct": 67
+    },
+    {
+      "group": "BE BOYS",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Hakseong",
+        "Takuma",
+        "Woncheon"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "BOYFRIEND",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "BOYNEXTDOOR",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "BXB",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "BeaverTown",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Yongil",
+        "Seongbin",
+        "Inho",
+        "Hyeonggu"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "Bursters",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Junyong",
+        "Gyejin",
+        "Taehee",
+        "Daegun"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "CLOUDIAN",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Brighten",
+        "O.M.",
+        "Logan",
+        "N.N.",
+        "Liam"
+      ],
+      "coverage_pct": 17
+    },
+    {
+      "group": "Cheek Touch Boys",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "Crying Nut",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Sangmyeon",
+        "Yunsik",
+        "Gyeongrok"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "DAILY:DIRECTION",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Lee Wonwoo"
+      ],
+      "coverage_pct": 83
+    },
+    {
+      "group": "DXMON",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Seita",
+        "Hee",
+        "TK"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "EASTONE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Kito",
+        "Sungwan (성완) / Wan.E"
+      ],
+      "coverage_pct": 67
+    },
+    {
+      "group": "EPIC TRAVELS",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "G.I (지아이), formerly stylized as G-I"
+      ],
+      "coverage_pct": 83
+    },
+    {
+      "group": "EXCEED",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Ikjun",
+        "Geumryul",
+        "Hyeonki",
+        "Joichiro"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "Eighteen April",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Jaebok",
+        "Nike Hong",
+        "wav"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "End These Days",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "YUL",
+        "Wookwon",
+        "JJ",
+        "sungwan"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "Episode",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "Goodbye",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "HEARTSTEEL",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 0,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "Sett",
+        "K’Sante",
+        "Ezreal",
+        "Kayn",
+        "Yone",
+        "Aphelios"
+      ],
+      "coverage_pct": 0
+    },
+    {
+      "group": "Heeya",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Holtan",
+        "SK",
+        "Myoungah"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "KEYVEATZ",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Son Juone"
+      ],
+      "coverage_pct": 83
+    },
+    {
+      "group": "KIIRAS",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "LingLing",
+        "Kurumi"
+      ],
+      "coverage_pct": 67
+    },
+    {
+      "group": "KJRGL",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Akira",
+        "Kouki",
+        "Hojin (호진/ ホジン), formerly Dien",
+        "Saeron",
+        "Isaac"
+      ],
+      "coverage_pct": 17
+    },
+    {
+      "group": "KickFlip",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Kyehoon",
+        "Juwang",
+        "Minje",
+        "Amaru"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "Loude",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Neo Gu Ri",
+        "Lee Woodo",
+        "Ui Joon"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "Lunch",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Joongsik",
+        "Hanu (한우) [formerly Beomgeun (범근)]",
+        "Woojah",
+        "Sam Samuel",
+        "Jinyong"
+      ],
+      "coverage_pct": 17
+    },
+    {
+      "group": "M.prism",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Kyrin",
+        "Kang Sera",
+        "Abin",
+        "Naye"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "MY:RAKL",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Saeon",
+        "Yuseong",
+        "Haydn",
+        "Seol",
+        "Jeha"
+      ],
+      "coverage_pct": 17
+    },
+    {
+      "group": "PARTYAFTERSIX (The Idol Band: Boy’s Battle)",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 0,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "Kim Sunghyo",
+        "Park Hyosung",
+        "Oya Takayuki",
+        "Kim Moonjong",
+        "Kwon Soonhwan",
+        "Jae Kwanwoo"
+      ],
+      "coverage_pct": 0
+    },
+    {
+      "group": "SHAX",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "KwonRyuk",
+        "Jaewoo"
+      ],
+      "coverage_pct": 67
+    },
+    {
+      "group": "SMORZ",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Zellda",
+        "Lika",
+        "Charlott",
+        "Hira"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "SUPER JUNIOR-H",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "SUPER JUNIOR-T",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "TILDE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Mandoochaplin",
+        "Laser",
+        "Jikwang Bae",
+        "Junhyeok"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "TimeZ",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Harry",
+        "Aaron (애런) / also known as Guanxi",
+        "Mao (마오) / also known as Ju-ne"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "Triger",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Rio",
+        "Shark-T",
+        "Ato",
+        "Won",
+        "Shawny"
+      ],
+      "coverage_pct": 17
+    },
+    {
+      "group": "UDTT",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Risako",
+        "Lu Yuting",
+        "Kwon Yejin",
+        "Jung Sena"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "UNIV",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Seungil",
+        "Jungjae"
+      ],
+      "coverage_pct": 67
+    },
+    {
+      "group": "VVS",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Brittney"
+      ],
+      "coverage_pct": 83
+    },
+    {
+      "group": "Vision@ry Vision",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "WAKER",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Kohyeon",
+        "Kwon Hyeop",
+        "Saebyeol"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "WeNU",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Heechan",
+        "Sunghwan",
+        "Chanhyo"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "XD",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "ZENITH",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Sangjun",
+        "Hyungseok"
+      ],
+      "coverage_pct": 67
+    },
+    {
+      "group": "can’t be blue",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Lee Hwuiwon",
+        "Kim Daehun",
+        "Lee Dohun"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "ifeye",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Won Hwayeon"
+      ],
+      "coverage_pct": 83
+    },
+    {
+      "group": "tripleS Zenith",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 6,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "1/N",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Soonwoo"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "1VERSE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Nathan",
+        "Kenny",
+        "Aito"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "9001 (Ninety O One)",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Jogon",
+        "Ui Geon",
+        "Ju Won",
+        "Jese"
+      ],
+      "coverage_pct": 20
+    },
+    {
+      "group": "AEONIT",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "REON",
+        "CHANYU"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "AFuture",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "AND2BLE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "ARTMS",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "AVION",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Kichun",
+        "Jayden"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "AWIN",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Ziki"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "About U",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Lee Chang Mo",
+        "Victor Han"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "Aesther",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Arisa",
+        "Eris",
+        "Mika"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "Aliven",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Seungmok",
+        "Donghoon",
+        "Haegwon",
+        "Beomsu"
+      ],
+      "coverage_pct": 20
+    },
+    {
+      "group": "B-OURS",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "BØJEONG",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Mingwang",
+        "Hwangyu",
+        "Kyungsun",
+        "Seongyu"
+      ],
+      "coverage_pct": 20
+    },
+    {
+      "group": "CRAXY",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Hyejin",
+        "ChaeY"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "Candy Shop",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Soram",
+        "Julia"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "Catch The Young",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Kihoon",
+        "Namhyun"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "Clear:I",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Sang",
+        "Do Hayoon",
+        "Eunsul"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "ContiNewd",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Hanwoul"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "D-ESTER",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Hael"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "DIGNITY",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Luo",
+        "Minseok",
+        "ON"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "DIH",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Esther",
+        "Onb"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "Danggisio",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Byeonggwan",
+        "Jongseok"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "Dayangsung",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Seunghyeon",
+        "Choonghee"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "FISTBUMP",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Jaebaek"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "FLAG",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Pilgeun",
+        "Sanghyun"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "Geenius",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Yeyoung",
+        "Mika",
+        "Zoe"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "Girls’ Generation-Oh!GG",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "H.O.W (Heart Of Woman)",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Chaei",
+        "Liri",
+        "Liuyin"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "HITGS",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "HippoPotamic",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Hippo",
+        "Namm",
+        "Con",
+        "Otter"
+      ],
+      "coverage_pct": 20
+    },
+    {
+      "group": "Hwanho",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Yoo Hwanju",
+        "Seol Wooseok",
+        "Ahn Byungjun"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "I:mond",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Youngwon"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "INPHASE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "TAESUNG",
+        "SUKHOON",
+        "YUNCHEOL"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "KOKOON",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Changhan",
+        "Taegil"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "KONGALTAN",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "LUAMEL",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Young Soo",
+        "Kyeong Cheol",
+        "Yong Hyuk"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "LUN8wave",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Takuma",
+        "Junwoo",
+        "Eunseop"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "Luna",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 0,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Yoon Taein",
+        "Seo Wooyeon",
+        "Lee Shin",
+        "Woo Gaon",
+        "Kim Yoochan"
+      ],
+      "coverage_pct": 0
+    },
+    {
+      "group": "MCND",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "MUZIGAE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "Mongdoll",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Yang Kwangjun",
+        "Jang Kyungchun",
+        "Lee Hongkyun"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "N.TIC",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Sangwook",
+        "Jinseo",
+        "Dowon",
+        "Seunghoo"
+      ],
+      "coverage_pct": 20
+    },
+    {
+      "group": "NOWZ",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "NUCLEAR IDIOTS",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "AQUEE",
+        "ROCKHYUN",
+        "TAKO"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "Navillera",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Dahlia"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "NewJeans / NJZ",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "ODDYOUTH",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Maika",
+        "Yeeum"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "OWIS",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "PATZ",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Jarry",
+        "Cho Yoonchan",
+        "COKEONSOBER"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "PLAN B",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Hwi",
+        "Hao",
+        "James"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "PLAVE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Yejun",
+        "Bamby"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "PRIMROSE",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Rainie",
+        "Yeum"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "Prize (프라이즈)",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Royeol",
+        "LIMSHA",
+        "Chillo",
+        "RAW"
+      ],
+      "coverage_pct": 20
+    },
+    {
+      "group": "Psychord",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 0,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Louiszzan",
+        "GamJay",
+        "Yeon-i",
+        "Oversleep",
+        "Haruto"
+      ],
+      "coverage_pct": 0
+    },
+    {
+      "group": "RATGUILE",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Gyeongpil"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "RAWBURN",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Heeseo"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "RBZ",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Shim",
+        "Hyangs",
+        "Nadozin"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "RE:REVOLUTION",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Onyu",
+        "Leeon"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "Rat In The Trap (The Boyz Special Unit Profile)",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "Rolling Quartz",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "S2iT",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Seungbi"
+      ],
+      "coverage_pct": 80
+    },
+    {
+      "group": "SEMA",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 0,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Sema",
+        "Taehyuk",
+        "Masa",
+        "An Chi Hoon",
+        "Ju Hyun Woo"
+      ],
+      "coverage_pct": 0
+    },
+    {
+      "group": "SKOSHISM",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 0,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Nino Sunday",
+        "Koyo Tempest",
+        "Oto Rainy",
+        "Iro Cloud",
+        "Robo Frostor"
+      ],
+      "coverage_pct": 0
+    },
+    {
+      "group": "SORAN",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Youngbae",
+        "Myeonho",
+        "Taewook"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "SUNNYKEY",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "Sonlmor",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Im Joongwon",
+        "Kim Yeonghwi",
+        "NEUT",
+        "Min Jongmin"
+      ],
+      "coverage_pct": 20
+    },
+    {
+      "group": "Sunset On The Bridge",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Giwoo",
+        "Sangheun"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "T5 (TREASURE)",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "TAPE Unit",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "TIOT",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Kum Junhyeon",
+        "Hong Keonhee"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "TXT",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "The King",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Choi Rang",
+        "Bawool"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "The Whales",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Jung Sukhoon",
+        "YangJang Semin",
+        "Cho Kihun",
+        "Kim Hangyeom"
+      ],
+      "coverage_pct": 20
+    },
+    {
+      "group": "UNICODE",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Erin",
+        "Mio"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "Vocal Team",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "W!TCHX",
+      "category": "girl",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Mago",
+        "Mew (뮤; formerly Seohyun (서현))"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "W24",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Howon",
+        "Jonggil"
+      ],
+      "coverage_pct": 60
+    },
+    {
+      "group": "WE:A",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Jeongkyun",
+        "Ron",
+        "Kichun"
+      ],
+      "coverage_pct": 40
+    },
+    {
+      "group": "We Are The Night",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Goosy",
+        "Phatty.H",
+        "Lam",
+        "Scooz"
+      ],
+      "coverage_pct": 20
+    },
+    {
+      "group": "Withus",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 0,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Janghyeon",
+        "Rak",
+        "Junyeop",
+        "Hwanrok",
+        "Junhyeok"
+      ],
+      "coverage_pct": 0
+    },
+    {
+      "group": "creespy",
+      "category": "boy",
+      "pre_debut": false,
+      "total_members": 5,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Heo Minseok",
+        "Oh Zangho"
+      ],
+      "coverage_pct": 60
+    }
+  ],
+  "pre_debut_groups": [
+    {
+      "group": "idntt",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 21,
+      "in_wikidata": 9,
+      "missing_from_wikidata": 12,
+      "missing_names": [
+        "Nam JiWoon",
+        "Lee CheongMyeong",
+        "Choi TaeIn",
+        "Towa",
+        "Kim HeeJu",
+        "Cho EunChan",
+        "Kwak GiWoong",
+        "Yang GyungHo",
+        "Choi GyeongBeen",
+        "Park NuRi",
+        "Lee KyuHyuk",
+        "HwangBo MinGyeol"
+      ],
+      "coverage_pct": 43
+    },
+    {
+      "group": "WAKEONE Trainee",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 13,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 8,
+      "missing_names": [
+        "Justin",
+        "Reeonn",
+        "Ko Mingchieh",
+        "Shoya",
+        "Tatsuki",
+        "Hsu Chingyu",
+        "Chung Sanghyeon",
+        "Yichen"
+      ],
+      "coverage_pct": 38
+    },
+    {
+      "group": "00d00m00y",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 11,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "B",
+        "SS / AKA Sun",
+        "TF",
+        "W",
+        "P",
+        "S"
+      ],
+      "coverage_pct": 45
+    },
+    {
+      "group": "Burvey",
+      "category": "girl",
+      "pre_debut": true,
+      "total_members": 11,
+      "in_wikidata": 9,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Juha",
+        "Yooran"
+      ],
+      "coverage_pct": 82
+    },
+    {
+      "group": "iNKODE BOYZ",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 11,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 8,
+      "missing_names": [
+        "Masato",
+        "Sen",
+        "Ayang",
+        "Jinyu",
+        "Teru",
+        "Jaein",
+        "Mano",
+        "Rukia"
+      ],
+      "coverage_pct": 27
+    },
+    {
+      "group": "ChoCo",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 10,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 8,
+      "missing_names": [
+        "Gwenda",
+        "Caesar",
+        "Nanaka",
+        "Natsuho",
+        "Yoonbin",
+        "Cherin",
+        "Anpan",
+        "TJ"
+      ],
+      "coverage_pct": 20
+    },
+    {
+      "group": "NT Trainees",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 10,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Yuma",
+        "Mati",
+        "Kelvin",
+        "Adrian",
+        "Iro"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "DIAZ",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 9,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "Haruki",
+        "Mingun",
+        "K.O",
+        "Sinwoo (신우/ シンウ), also romanized as Shinwoo",
+        "Sota",
+        "Sudong"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "LUN8",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 9,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Yuma",
+        "Chael",
+        "Takuma",
+        "Junwoo",
+        "Eunseop"
+      ],
+      "coverage_pct": 44
+    },
+    {
+      "group": "SWEET:CH",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 9,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 7,
+      "missing_names": [
+        "Hwi",
+        "Jin (진), formerly known as Do Jin",
+        "Rikuto (리쿠토), formerly known as Ro Mi",
+        "Wangseok",
+        "Satoshi",
+        "Chen Yu (첸유), formerly known as Si U",
+        "Chan Sol"
+      ],
+      "coverage_pct": 22
+    },
+    {
+      "group": "W3WAY (WWW)",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 9,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "Xiho",
+        "Hyecheon",
+        "Aoi",
+        "Rintaro",
+        "Jeongyoon",
+        "Leno"
+      ],
+      "coverage_pct": 33
+    },
+    {
+      "group": "XODIAC",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 9,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Lex",
+        "Hyunsik",
+        "Zayyan",
+        "Wain",
+        "Sing"
+      ],
+      "coverage_pct": 44
+    },
+    {
+      "group": "AMBITION",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 8,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Yunhyeong/ Yoonhyung",
+        "Yosuke"
+      ],
+      "coverage_pct": 75
+    },
+    {
+      "group": "CHASER",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 8,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Keisuke",
+        "Masaya",
+        "Seochan"
+      ],
+      "coverage_pct": 62
+    },
+    {
+      "group": "Choco2",
+      "category": "girl",
+      "pre_debut": true,
+      "total_members": 8,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 7,
+      "missing_names": [
+        "Anpan",
+        "Gwenda",
+        "Caesar",
+        "Nanaka",
+        "Natsuho",
+        "Yoonbin",
+        "Cherin"
+      ],
+      "coverage_pct": 12
+    },
+    {
+      "group": "EION",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 8,
+      "in_wikidata": 7,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Heemin"
+      ],
+      "coverage_pct": 88
+    },
+    {
+      "group": "N.TOP",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 8,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Changlin",
+        "Takuto",
+        "Chaemin",
+        "Heewoo",
+        "Hyunwoong"
+      ],
+      "coverage_pct": 38
+    },
+    {
+      "group": "NXON",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 8,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Ziki",
+        "Gyeom"
+      ],
+      "coverage_pct": 75
+    },
+    {
+      "group": "OUIBOYS",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 8,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Anji",
+        "Eito",
+        "Sihwan",
+        "Joungjae",
+        "Masayoshi"
+      ],
+      "coverage_pct": 38
+    },
+    {
+      "group": "YUHZ",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 8,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Junseong",
+        "Jaeil",
+        "Sechan",
+        "Haruto"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "YUMENITY",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 8,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Eunyool",
+        "Covy",
+        "Ssen",
+        "Hua"
+      ],
+      "coverage_pct": 50
+    },
+    {
+      "group": "AEN",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Jiyong",
+        "Haruto",
+        "Kaira"
+      ],
+      "coverage_pct": 57
+    },
+    {
+      "group": "AGD",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 7,
+      "missing_from_wikidata": 0,
+      "missing_names": [],
+      "coverage_pct": 100
+    },
+    {
+      "group": "BLINGONE China",
+      "category": "girl",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 5,
+      "missing_from_wikidata": 2,
+      "missing_names": [
+        "Katrina",
+        "Ranee"
+      ],
+      "coverage_pct": 71
+    },
+    {
+      "group": "Levergent",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 4,
+      "missing_from_wikidata": 3,
+      "missing_names": [
+        "Khain",
+        "Rihyeon",
+        "R"
+      ],
+      "coverage_pct": 57
+    },
+    {
+      "group": "MEPC",
+      "category": "girl",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 1,
+      "missing_from_wikidata": 6,
+      "missing_names": [
+        "Solmi",
+        "Miho",
+        "Kkekke",
+        "Hara",
+        "Zaylie",
+        "Anika"
+      ],
+      "coverage_pct": 14
+    },
+    {
+      "group": "My One",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Dojun",
+        "Zenon",
+        "Shiro",
+        "Scene"
+      ],
+      "coverage_pct": 43
+    },
+    {
+      "group": "NAZE",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Kaisei",
+        "Younki",
+        "Ato",
+        "Turn",
+        "Yuya"
+      ],
+      "coverage_pct": 29
+    },
+    {
+      "group": "NEWBEAT",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 3,
+      "missing_from_wikidata": 4,
+      "missing_names": [
+        "Park Minseok",
+        "Hong Minsung",
+        "Jeon Yeoyeojeong",
+        "Jo Yunhu"
+      ],
+      "coverage_pct": 43
+    },
+    {
+      "group": "TUNEXX",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Donggyu",
+        "Inhu",
+        "Taira",
+        "Sihwan",
+        "Arctic"
+      ],
+      "coverage_pct": 29
+    },
+    {
+      "group": "Ursa Major",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 6,
+      "missing_from_wikidata": 1,
+      "missing_names": [
+        "Junhyun"
+      ],
+      "coverage_pct": 86
+    },
+    {
+      "group": "WE GO-6",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Xiu",
+        "Taegang (태강)",
+        "Kuta (쿠우타)",
+        "Hale",
+        "Sanho"
+      ],
+      "coverage_pct": 29
+    },
+    {
+      "group": "WHYNOT",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Sihoon",
+        "Dongyeon",
+        "Doa (도아)/ Doah",
+        "Tosei",
+        "Rohoon"
+      ],
+      "coverage_pct": 29
+    },
+    {
+      "group": "XENIX=ON",
+      "category": "boy",
+      "pre_debut": true,
+      "total_members": 7,
+      "in_wikidata": 2,
+      "missing_from_wikidata": 5,
+      "missing_names": [
+        "Seunggi",
+        "Raphael",
+        "Deon",
+        "Mickey",
+        "Ino"
+      ],
+      "coverage_pct": 29
+    }
+  ]
+}
