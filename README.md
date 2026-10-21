@@ -114,7 +114,7 @@ The Anthropic API enrichment step extracts brand affiliations from web sources. 
 
 ### Access control: invite-only, and enforced in the database
 
-The tool is internal, so access is by invitation. Users sign in with a **magic link**: they enter their email, and if it is on the invite list Supabase emails them a one-time link. Sign-ups are disabled, and the login form shows the same message whether or not an email is registered, so the list cannot be probed.
+The tool is internal, so access is by invitation. Users sign in with a **magic link**: they enter their email, and if it is on the invite list Supabase emails them a one-time link. Sign-ups are disabled and `shouldCreateUser: false` is set, so a magic link is only sent to emails already on the invite list; anyone else gets an error and no email is sent. For a small internal tool I accepted that this reveals whether an email is invited, in exchange for clear feedback to real users.
 
 The login screen alone would not protect anything, because the Supabase anon key ships in the browser bundle and anyone can call the REST API directly. So the real enforcement is lower down:
 

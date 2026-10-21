@@ -16,9 +16,11 @@
  * - AuthProvider updates → user is now logged in → page.tsx renders
  *
  * SECURITY NOTE:
- * The success message is the same whether the email is registered or not.
- * This prevents email enumeration attacks (an attacker can't probe
- * which emails are in the system by watching for different responses).
+ * Sign-ups are disabled and shouldCreateUser is false, so a link is only
+ * sent to invited emails; anyone else gets an error and no email.
+ * Known trade-off: this reveals whether an email is on the invite list
+ * (email enumeration). Accepted for a small internal tool in exchange
+ * for clear feedback to real users.
  */
 
 import { useState } from 'react'
